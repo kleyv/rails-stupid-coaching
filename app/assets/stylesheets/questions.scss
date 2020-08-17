@@ -1,0 +1,13 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+
+$dink: #FFD0F3;
+
+.question {
+  background-color: $dink;
+}
+
+.answer {
+  background-color: #C3D9FF;
+}
